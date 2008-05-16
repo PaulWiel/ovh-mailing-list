@@ -1,4 +1,5 @@
-#Configuration requise
+#summary Configuration requise pour utiliser le script OVH Mailing-list
+
 =Configuration requise=
 
   * Un hébergement [http://www.ovh.com OVH] avec l'option *liste de diffusion*
