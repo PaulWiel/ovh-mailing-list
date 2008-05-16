@@ -1,0 +1,18 @@
+#summary Personnalisation des messages d'erreurs, de confirmations et d'emails
+
+= Personnalisation des messages =
+
+Éditer le fichier config.php et modifier les valeur suivantes :
+
+    * $messages['homepage'] : formulaire par défaut qui s'affiche lorsque l'on pointe directement sur le script
+    * $messages['unvalid_email'] : message signalant un email invalide
+    * $messages['error_subscribe'] : message d'erreur lors d'une inscription
+    * $messages['confirm_subscribe'] : message de confirmation lors d'une inscription
+    * $messages['error_unsubscribe'] : message d'erreur lors d'une désinscription
+    * $messages['confirm_unsubscribe'] : message de confirmation lors d'une désinscription
+    * $messages['error_validate'] : message d'erreur lors de la validation
+    * $messages['confirm_validate'] : message de confirmation lors de la validation
+    * $confirm_email['sub_subject'] : sujet de l'email lors de l'inscription
+    * $confirm_email['sub_body'] : corps du message de l'email lors de l'inscription
+    * $confirm_email['unsub_subject'] : sujet de l'email lors de la désinscription
+    * $confirm_email['unsub_body'] : corps du message de l'email lors de la désinscription
