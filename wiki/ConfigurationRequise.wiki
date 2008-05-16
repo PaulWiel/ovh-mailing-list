@@ -1,0 +1,6 @@
+#Configuration requise
+
+=Configuration requise=
+
+  * Un hébergement [http://www.ovh.com OVH] avec l'option *liste de diffusion*
+  * L'accès au serveur FTP de l'hébergement
